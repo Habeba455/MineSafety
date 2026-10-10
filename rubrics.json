@@ -1,0 +1,432 @@
+[
+  {
+    "item": 1,
+    "weight": 12,
+    "criterion": "recommendation.md selects NEELY'S LANDING QUARRY (2300758) as the sole operation for the funded independent review.",
+    "category": "recommend",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 2,
+    "weight": 12,
+    "criterion": "recommendation.md prioritizes mine 2300758 over Amrize Three Rivers Quarry (1500100) because their qualifying-event counts are 13 and 10, respectively.",
+    "category": "recommend",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 3,
+    "weight": 11,
+    "criterion": "recommendation.md retains mine 2300758 as the review choice when discussing an injury-based alternative, because the funding priority is qualifying-event recurrence, not the highest injury rate.",
+    "category": "recommend",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 4,
+    "weight": 2,
+    "criterion": "recommendation.md states that the historical review period is 2023 through 2025.",
+    "category": "explore",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 5,
+    "weight": 2,
+    "criterion": "recommendation.md defines eligibility as currently active U.S. surface crushed-limestone operations in the supplied mine master.",
+    "category": "explore",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 6,
+    "weight": 2,
+    "criterion": "recommendation.md reports that the eligible population contains 1,275 operations.",
+    "category": "explore",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 7,
+    "weight": 2,
+    "criterion": "recommendation.md bases current status on the supplied records and identifies the available status date or explicitly states that it is missing.",
+    "category": "explore",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 8,
+    "weight": 2,
+    "criterion": "recommendation.md discloses uncertainty about the currency of the supplied operating-status snapshot.",
+    "category": "explore",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 9,
+    "weight": 2,
+    "criterion": "recommendation.md states that eligibility is independent of minimum work hours and complete annual work-hour reporting.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 10,
+    "weight": 2,
+    "criterion": "recommendation.md defines a qualifying event as an in-window inspection linked to at least one in-window S&S violation.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 11,
+    "weight": 2,
+    "criterion": "recommendation.md counts multiple S&S violations from one inspection event as one recurrence occasion.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 12,
+    "weight": 2,
+    "criterion": "recommendation.md documents the treatment of material identifier, date, or repeated-record discrepancies found in the supplied sources.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 13,
+    "weight": 2,
+    "criterion": "recommendation.md identifies records excluded from its decision measures and explains the exclusion reasons.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 14,
+    "weight": 2,
+    "criterion": "recommendation.md presents the selected operation's qualifying-event distribution by inspection year.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 15,
+    "weight": 2,
+    "criterion": "recommendation.md defines the accident-severity categories included in SERIOUS_RECORDS and gives the basis for that selection.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 16,
+    "weight": 2,
+    "criterion": "recommendation.md labels INJURY_RATE as selected accident records per 200,000 reported work hours.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 17,
+    "weight": 2,
+    "criterion": "recommendation.md explains how missing or incomplete work-hour data affect its exposure totals and injury-rate comparisons.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 18,
+    "weight": 2,
+    "criterion": "recommendation.md identifies inspection frequency or inspection type as a limitation on interpreting documented recurrence.",
+    "category": "hypothesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 19,
+    "weight": 2,
+    "criterion": "recommendation.md states that missing records do not establish absence of incidents or regulatory concerns.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 20,
+    "weight": 2,
+    "criterion": "recommendation.md distinguishes the funded review priority from proof of current unsafe conditions, regulatory noncompliance, or highest underlying safety risk.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 21,
+    "weight": 2,
+    "criterion": "recommendation.md describes the historical records or safety-control questions the proposed independent review would investigate.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 22,
+    "weight": 2,
+    "criterion": "recommendation.md explains whether the reported sensitivity scenarios change the selection and what that implies for the recommendation.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 23,
+    "weight": 2,
+    "criterion": "analysis/sensitivity.csv includes a baseline and alternatives addressing source-reconciliation or coverage uncertainty while retaining the stated funding priorities.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "analysis/sensitivity.csv"
+    ]
+  },
+  {
+    "item": 24,
+    "weight": 2,
+    "criterion": "analysis/sensitivity.csv contains SCENARIO_ID, ASSUMPTION_CHANGE, SELECTED_MINE_ID, SELECTED_MINE_NAME, SS_INSPECTION_EVENTS, SELECTION_CHANGED, and LIMITATION columns.",
+    "category": "instruction_following",
+    "verification_type": "text",
+    "grades_output_files": [
+      "analysis/sensitivity.csv"
+    ]
+  },
+  {
+    "item": 25,
+    "weight": 2,
+    "criterion": "analysis/summary.csv contains the identity/rank fields MINE_ID, CURRENT_MINE_NAME, PRIORITY_RANK and exposure/injury fields TOTAL_HOURS, HOURS_YEARS_REPORTED, SERIOUS_RECORDS, INJURY_RATE.",
+    "category": "instruction_following",
+    "verification_type": "text",
+    "grades_output_files": [
+      "analysis/summary.csv"
+    ]
+  },
+  {
+    "item": 26,
+    "weight": 2,
+    "criterion": "analysis/summary.csv contains TOTAL_VIOLATIONS, SS_VIOLATIONS, TOTAL_INSPECTIONS, SS_INSPECTION_EVENTS, SS_EVENT_YEARS, and QUALIFYING_SS_VIOLATIONS columns.",
+    "category": "instruction_following",
+    "verification_type": "text",
+    "grades_output_files": [
+      "analysis/summary.csv"
+    ]
+  },
+  {
+    "item": 27,
+    "weight": 2,
+    "criterion": "analysis/data_quality.json contains source_coverage, reconciliation_findings, excluded_records, and unresolved_issues as top-level arrays.",
+    "category": "instruction_following",
+    "verification_type": "text",
+    "grades_output_files": [
+      "analysis/data_quality.json"
+    ]
+  },
+  {
+    "item": 28,
+    "weight": 2,
+    "criterion": "recommendation.md contains a comparison table with labeled measures and units for a management and technical-review audience.",
+    "category": "instruction_following",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 29,
+    "weight": 1,
+    "criterion": "recommendation.md exists as the Markdown decision memorandum.",
+    "category": "instruction_following",
+    "verification_type": "file_structure",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 30,
+    "weight": 1,
+    "criterion": "analysis/summary.csv exists as the machine-readable operation comparison.",
+    "category": "instruction_following",
+    "verification_type": "file_structure",
+    "grades_output_files": [
+      "analysis/summary.csv"
+    ]
+  },
+  {
+    "item": 31,
+    "weight": 1,
+    "criterion": "analysis/sensitivity.csv exists as the machine-readable sensitivity analysis.",
+    "category": "instruction_following",
+    "verification_type": "file_structure",
+    "grades_output_files": [
+      "analysis/sensitivity.csv"
+    ]
+  },
+  {
+    "item": 32,
+    "weight": 1,
+    "criterion": "analysis/data_quality.json exists as the structured data-quality record.",
+    "category": "instruction_following",
+    "verification_type": "file_structure",
+    "grades_output_files": [
+      "analysis/data_quality.json"
+    ]
+  },
+  {
+    "item": 33,
+    "weight": 1,
+    "criterion": "recommendation.md identifies the supplied sources used for its reported calculations.",
+    "category": "explore",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 34,
+    "weight": 1,
+    "criterion": "recommendation.md distinguishes all recorded S&S violations from S&S violations linked to qualifying inspection events.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 35,
+    "weight": 1,
+    "criterion": "recommendation.md specifies the policy order: qualifying-event count, then qualifying inspection-year count, then associated S&S violation count.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 36,
+    "weight": 1,
+    "criterion": "recommendation.md states that a tie remaining after the stated priorities is unresolved, rather than broken by mine ID or an invented preference.",
+    "category": "analyze",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 37,
+    "weight": 1,
+    "criterion": "recommendation.md explains material analytical assumptions used to produce its reported measures.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 38,
+    "weight": 1,
+    "criterion": "analysis/data_quality.json describes the coverage limitations of the sources used.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "analysis/data_quality.json"
+    ]
+  },
+  {
+    "item": 39,
+    "weight": 1,
+    "criterion": "analysis/data_quality.json records unresolved issues and their potential effect on the decision, or explicitly reports none.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "analysis/data_quality.json"
+    ]
+  },
+  {
+    "item": 40,
+    "weight": 1,
+    "criterion": "analysis/data_quality.json contains no personal names or other personal information.",
+    "category": "instruction_following",
+    "verification_type": "text",
+    "grades_output_files": [
+      "analysis/data_quality.json"
+    ]
+  },
+  {
+    "item": 41,
+    "weight": 1,
+    "criterion": "recommendation.md uses headings to separate its decision, evidence, and limitations; no particular heading wording is required.",
+    "category": "instruction_following",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 42,
+    "weight": 1,
+    "criterion": "recommendation.md contains no unfinished placeholders or debugging output.",
+    "category": "instruction_following",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  },
+  {
+    "item": 43,
+    "weight": 1,
+    "criterion": "recommendation.md identifies the limits of the conclusions that can be drawn from its sensitivity analysis.",
+    "category": "synthesize",
+    "verification_type": "text",
+    "grades_output_files": [
+      "recommendation.md"
+    ]
+  }
+]

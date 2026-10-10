@@ -1,0 +1,7 @@
+environment/data/Accidents.txt
+environment/data/Inspections.csv
+environment/data/Violations_part01.csv
+environment/data/Violations_part02.csv
+.DS_Store
+__pycache__/
+.env
